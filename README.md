@@ -12,6 +12,8 @@ This is the documentation, details and files as of August 2024
 - Page: https://4.3.2.1
 - On local network as: kk-marqueetop.local
 
+Full [instruction manual](https://quinled.info/2020/02/11/pre-assembled-quinled-dig-uno-wled-manual/).
+
 ### Segments
 
 See the `2024/marquee-topper` folder for the files.
@@ -41,7 +43,7 @@ Wiring the AC plug to the power supply:
 - **White:** Neutral / N
 - **Black:** Live / L
 
-
+Controller [wiring guide](https://quinled.info/2020/10/03/quinled-dig-quad-wiring-guide/). Note that no voltage jumpers are needed for our pre-assembled version.
 
 
 
