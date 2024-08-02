@@ -16,7 +16,7 @@ This is the documentation, details and files as of August 2024
 
 ### LED Mapping
 
-See the `2024/` folder for the files.
+See the `2024/marquee-topper` folder for the files.
 
 - **ledmap.json** The middle building map, as a grid 
 - **ledmap1.json** Also the middle building map, as a grid (duplicate)
