@@ -18,15 +18,18 @@ See the `2024/marquee-topper` folder for the files.
 
 - **Segment 1:** The middle building
   - GPIO 16
+  - LED 1 on the controller
   - **ledmap.json** The middle building map, as a grid
   - **ledmap1.json** Also the middle building map, as a grid (duplicate)
   - **ledmap7.json** The middle building map, as a strip. Includes all turns and bends.
 - **Segment 2:** The left side burst
-  - GPIO
+  - GPIO 03
+  - LED 2 on the controller
   - **ledmap2.json** Left burst, as a grid 
   - **ledmap8.json** Left burst, as a strip. Includes all turns and bends.
 - **Segment 3:** The right side burst
-  - GPIO
+  - GPIO 04
+  - LED 3 on the controller
   - **ledmap3.json** Right burst, as a grid 
   - **ledmap9.json** Right burst, as a strip. Includes all turns and bends.
 
