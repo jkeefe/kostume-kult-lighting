@@ -33,6 +33,16 @@ See the `2024/marquee-topper` folder for the files.
   - **ledmap3.json** Right burst, as a grid 
   - **ledmap9.json** Right burst, as a strip. Includes all turns and bends.
 
+### Power
+
+Wiring the AC plug to the power supply:
+
+- **Green:** Earth / ground
+- **White:** Neutral / N
+- **Black:** Live / L
+
+
+
 
 
 
