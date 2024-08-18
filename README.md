@@ -9,6 +9,17 @@ See the `2024/marquee-topper` folder for all files.
 
 ### WELD Controller
 
+## Initial connection attempt
+
+This controller will try to connect to:
+
+- Wifi SSID: nick-and-nora-frontage
+- Password ******
+
+## Fallback on-board wifi
+
+This is what it will default to when it doesn't connect to the main network.
+
 - Wifi SSID: KK-MarqueeTop
 - Password: ********
 - Page: https://4.3.2.1
@@ -35,6 +46,12 @@ Full [instruction manual](https://quinled.info/2020/02/11/pre-assembled-quinled-
   - Right side
  
 - [ X ] Make segment for each output
+
+### Microphone Pins
+
+- Q1 = GPIO 15 = I2S SCK pin
+- Q2 = GPIO 12 = I2S SD pin
+- Q4 = GPIO 32 = I2S WS pin
 
 ### Maps
 
